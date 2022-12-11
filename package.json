@@ -9,7 +9,7 @@
   "author": "Rama Rao Gaddam",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validator": "3.1.2",
     "jsonwebtoken": "^8.5.1",
     "mongojs": "^2.6.0",
